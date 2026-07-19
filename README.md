@@ -15,7 +15,7 @@ Este projeto reconstrói a trajetória científica e biográfica de Nikola Tesla
 
 - **A Mente do Inventor:** Investigação do processo criativo de Tesla, destacando sua memória eidética e a capacidade de visualizar protótipos complexos mentalmente antes da construção física, além de seus hábitos excêntricos e visões sociais complexas.
 
-# Impacto e Legado
+## Impacto e Legado
 O legado de Tesla permanece onipresente, desde a unidade SI de fluxo magnético que o homenageia até a operação de motores industriais e eletrodomésticos que sustentam o cotidiano moderno. Este estudo serve como uma base consolidada para compreender o gênio que antecipou tecnologias como o radar e a comunicação portátil décadas antes de sua realização prática.
 Este repositório compila dados de diversas fontes históricas e científicas, incluindo bibliografias, patentes originais e investigações geofísicas modernas.
 
