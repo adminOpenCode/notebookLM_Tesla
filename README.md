@@ -5,7 +5,7 @@
 # Objetivo do Estudo
 Este projeto reconstrói a trajetória científica e biográfica de Nikola Tesla, cujas descobertas no final do século XIX foram fundamentais para a criação da infraestrutura tecnológica moderna e da era da informação. O objetivo central é analisar o impacto de suas principais patentes no mundo contemporâneo, desmistificando rivalidades históricas e detalhando como sua engenharia permitiu a eletrificação global.
 
-#Tópicos Principais
+# Tópicos Principais
 
 - **A Guerra das Correntes:** Análise detalhada da superioridade técnica da Corrente Alternada (CA) de Tesla e Westinghouse frente à Corrente Contínua de Thomas Edison. O foco reside no uso estratégico de transformadores e sistemas polifásicos para a transmissão de energia com eficiência a longas distâncias.
 
