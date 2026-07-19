@@ -18,3 +18,6 @@ Este projeto reconstrói a trajetória científica e biográfica de Nikola Tesla
 #Impacto e Legado
 O legado de Tesla permanece onipresente, desde a unidade SI de fluxo magnético que o homenageia até a operação de motores industriais e eletrodomésticos que sustentam o cotidiano moderno. Este estudo serve como uma base consolidada para compreender o gênio que antecipou tecnologias como o radar e a comunicação portátil décadas antes de sua realização prática.
 Este repositório compila dados de diversas fontes históricas e científicas, incluindo bibliografias, patentes originais e investigações geofísicas modernas.
+
+# Link para acessar o notebookLM
+https://notebooklm.google.com/notebook/d93bb4b4-853b-44ff-80ce-70eb2569b743
