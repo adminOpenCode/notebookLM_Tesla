@@ -1,0 +1,2 @@
+### 2. O Mistério e a Ciência da Torre Wardenclyffe
+"Descreva o ambicioso projeto do **'Sistema Mundial' de Tesla na Torre Wardenclyffe**, detalhando suas metas de transmissão de dados e energia sem fio. Com base em investigações geofísicas modernas, o que se sabe sobre a finalidade dos **túneis subterrâneos e hastes de aterramento** da torre, e quais foram os fatores físicos (como a lei do inverso do quadrado) e financeiros que levaram ao seu fracasso?"
