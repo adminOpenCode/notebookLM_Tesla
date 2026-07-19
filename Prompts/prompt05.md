@@ -1,0 +1,2 @@
+### 5. O Gênio Criativo e o Processo de Invenção de Tesla
+"Explore as características singulares da mente de Tesla, como sua **memória eidética (fotográfica)** e a capacidade de realizar visualizações tridimensionais complexas ('holográficas') antes de construir protótipos. Como essas habilidades, somadas aos seus **hábitos excêntricos de trabalho e sono**, contribuíram para que ele registrasse quase 300 patentes e previsse tecnologias décadas antes de sua realização prática?"
